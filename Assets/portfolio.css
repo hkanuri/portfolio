@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+    
+}
+
+.companies{
+    text-align: left;
+}
+
+.img1{
+    padding-right: 68px;
+}
+ 
+.profile{
+    background-color: #9fe7d9;
+}
+
+.card{
+    background-color: rgb(219, 184, 184);
+    margin-top: 2px;
+}
+
+.mt-0{
+    padding-top: 80px;
+}
+
+.align-self-center{
+max-width: 100;
+}

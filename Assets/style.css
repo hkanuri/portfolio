@@ -1,0 +1,69 @@
+header{
+    text-align: center;
+    color: #fff;
+    background:  #9fe7d9;
+}
+
+.container{
+    padding-top: 150px;
+    padding-bottom: 40px;
+}
+.row{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.col-lg-12{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.img-responsive{
+    max-width: 240px;
+   margin-left: 40%;
+}
+
+.name{
+    font-size: 25px;
+}
+
+hr{
+    max-width: 240px;
+    
+}
+
+.row{
+    text-align:left;
+    
+}
+
+.interests{
+    text-align: left;
+    padding-right: 25px;
+    margin-right:35%
+}
+
+h3{
+    padding-left: 110px;
+}
+li{
+    border-spacing: 100px;
+}
+
+.personal-interests {
+    text-align: center;
+    margin-right: 20%;
+    
+}
+
+.name{
+    margin-left: 42%;
+    margin-top: 20%;
+}
+
+.skill{
+margin-left: 45%;
+
+}
