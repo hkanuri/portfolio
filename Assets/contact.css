@@ -7,7 +7,7 @@
     margin-left: auto;
     padding-left: 15px;
     padding-right: 15px;
-
+    background:  #9fe7d9;
 }
 
 .row{
@@ -36,17 +36,19 @@ h2{
 }
 
 .contact{
-    background-color: rgb(219, 184, 184);
+    background-color: rgb(224, 208, 208);
     padding-bottom: 15px;
     margin-top: 15px;
 }
 
 .btn{
-    background-color: #9fe7d9;
+    background-color: #8dcabc;
     font-size: 20px;
-    
+    color: white;
+    border-color: black;
 }
 
 .col-lg-6{
     text-underline-position: below;
 }
+
